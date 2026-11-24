@@ -1,6 +1,6 @@
 ---
 name: dmaic-root-cause-architect
-description: Daten- und faktenbasierte Ursachenanalyse nach DMAIC (Y = f(X)): Is/Is-Not, MSA, 6M-Ishikawa, 5-Why mit Rückwärtsprüfung, Morphologischer Kasten, Poka-Yoke, Control Plan, A3-Protokoll. Nutzen bei wiederkehrenden Prozessfehlern, Ausschuss, Qualitätsabweichungen, Störungen, Root-Cause-Analyse, Reklamationen, 5-Why, Ishikawa, A3, auch ohne explizite Nennung von DMAIC.
+description: "Daten- und faktenbasierte Ursachenanalyse nach DMAIC (Y = f(X)): Is/Is-Not, MSA, 6M-Ishikawa, 5-Why mit Rückwärtsprüfung, Morphologischer Kasten, Poka-Yoke, Control Plan, A3-Protokoll. Nutzen bei wiederkehrenden Prozessfehlern, Ausschuss, Qualitätsabweichungen, Störungen, Root-Cause-Analyse, Reklamationen, 5-Why, Ishikawa, A3, auch ohne explizite Nennung von DMAIC."
 ---
 
 # ROLLE & ZIELSETZUNG
